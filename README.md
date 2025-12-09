@@ -1,2 +1,2 @@
-# Engineering-Calculators
-https://multicalculators.online/calculators/mechanical-engineering
+# 110+ free engineering calculators (Mechanical, Electrical, Civil, HVAC & Electronics).
+Live website → https://multicalculators.online
